@@ -169,7 +169,8 @@ pip install -r requirements.txt
 ### 4. Launch Analysis
 ```bash
 jupyter notebook notebooks/advanced_ml_analysis.ipynb
-```<img width="1920" height="1080" alt="Screenshot 2025-10-03 070621" src="https://github.com/user-attachments/assets/1fa9fdec-3861-477d-b915-ecef54ae7966" />
+```
+<img width="1182" height="791" alt="image" src="https://github.com/user-attachments/assets/01e7e7fb-424f-4346-97c9-b49b5abd4de1" />
 
 
 ## 🎯 Usage Workflow
