@@ -10,6 +10,10 @@ This project demonstrates advanced machine learning techniques including **Multi
 ![Multiple Regression Analysis](visualizations/multiple_regression_analysis.png)
 *Comprehensive analysis showing actual vs predicted values, residual diagnostics, Q-Q plot for normality testing, and feature coefficient impacts*
 
+### Coefficient Bar Chart
+![Bar Plot of Coefficients](https://github.com/user-attachments/assets/d617a2c2-2151-467e-a36b-af0db79cdcdb)
+*Bar chart showing the coefficient values for each independent variable in the multiple linear regression model, highlighting the relative impact of Marketing_Spend, Customer_Reviews, and Sales_Team_Size on Sales_Revenue*
+
 ### Decision Tree Model Performance
 ![Decision Tree Analysis](visualizations/decision_tree_analysis.png)
 *Cross-validation results, feature importance ranking, model predictions, and performance comparison between regression approaches*
