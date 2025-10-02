@@ -170,7 +170,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/advanced_ml_analysis.ipynb
 ```
-<img width="1182" height="791" alt="image" src="https://github.com/user-attachments/assets/01e7e7fb-424f-4346-97c9-b49b5abd4de1" />
 
 
 ## 🎯 Usage Workflow
