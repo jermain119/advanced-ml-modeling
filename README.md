@@ -4,6 +4,16 @@
 
 This project demonstrates advanced machine learning techniques including **Multiple Linear Regression** and **Decision Tree Modeling** for business analytics. The analysis covers two comprehensive case studies: sales revenue prediction using multiple variables and smart home device launch revenue forecasting.
 
+## 📸 Key Visualizations
+
+### Multiple Regression Analysis Dashboard
+![Multiple Regression Analysis](visualizations/multiple_regression_analysis.png)
+*Comprehensive analysis showing actual vs predicted values, residual diagnostics, Q-Q plot for normality testing, and feature coefficient impacts*
+
+### Decision Tree Model Performance
+![Decision Tree Analysis](visualizations/decision_tree_analysis.png)
+*Cross-validation results, feature importance ranking, model predictions, and performance comparison between regression approaches*
+
 ## 🎯 Problem Statements
 
 ### 1. Multiple Regression Analysis
